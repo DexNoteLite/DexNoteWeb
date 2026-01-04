@@ -20,7 +20,7 @@ body {
     right: 0;
     width: 60vw;
     height: 100%;             /* changed from 100vh to 100% to follow content height */
-    background-image: url(/assets/Images/Landing-Page-Computer.png);
+    background-image: url('../assets/Images/Landing-Page-Computer.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -211,3 +211,4 @@ body {
     font-weight: 600;
     color: #0ea5e9;
 }
+
